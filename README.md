@@ -1,6 +1,6 @@
 **Authors:** Mario De Lorenzo, Felix Maldonado Osorio, Emma Dryden
 
-**Affiliation:** Drexel Hackathon 2022
+**Affiliation:** NTX Hackathon 2022
 
 **Date:** October 29 - October 30, 2022
 
