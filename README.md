@@ -1,8 +1,8 @@
 **Authors:** Mario De Lorenzo, Felix Maldonado Osorio, Emma Dryden
 
-**Affiliation:** Drexel Hackathon 2022
+**Affiliation:** NTX Hackathon 2022
 
-**Date:** April 30 - May 1, 2022
+**Date:** Ocotber 29 - 30, 2022
 
 ![](images/GetFocus.png)
 
